@@ -30,12 +30,7 @@ h1{
     opacity: 0.6;
     padding-top: 150px;
 }
-.button{
-    text-align: center;
-    height: 80 px;
-    width: 120px;
-    border-radius: 10px;
-}
+
 
 
 .place{
@@ -46,4 +41,18 @@ h1{
 .text{
     font-size: 40px;
     
+}
+
+/*button*/
+.btn{
+    padding-top: 70px;
+    padding-bottom: 200px;
+}
+
+.button{
+   
+    text-align: center;
+    height: 80 px;
+    width: 120px;
+    border-radius: 10px;
 }
