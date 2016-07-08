@@ -10,8 +10,10 @@
 /*header*/
 
 h1{
+    padding-top: 50px;
     text-align: center;
-    color: #ECEE12;
+    color: #EA971D;
+    font-size: 60px;
 }
 .title{
     height: 200px;
@@ -22,6 +24,10 @@ h1{
 
 /*mid*/
 
+a{
+    color:#F9F9F9;
+    font-size: 40px;
+}
 
 .back{
     color: #FFFFFF;
@@ -39,7 +45,8 @@ h1{
 }
 
 .text{
-    font-size: 40px;
+    font-size: 60px;
+    color: ;
     
 }
 
@@ -50,9 +57,12 @@ h1{
 }
 
 .button{
-   
+    font-size: 20px;
+   color: #EA971D;
     text-align: center;
-    height: 80 px;
-    width: 120px;
-    border-radius: 10px;
+    height: 60 px;
+    width: 170px;
+    border-radius: 20px;
 }
+
+/*bottom*/
