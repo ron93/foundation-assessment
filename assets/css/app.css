@@ -1,9 +1,11 @@
 /*body*/
+
 .main{
     background-image: url(/assets/img/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
+    height: 100%;
 }
 /*header*/
 
@@ -19,6 +21,29 @@ h1{
 
 
 /*mid*/
+
+
 .back{
-    background:#EAEAD8;
+    color: #FFFFFF;
+    width: 100%;
+    background-color:#EAEAD8;
+    opacity: 0.6;
+    padding-top: 150px;
+}
+.button{
+    text-align: center;
+    height: 80 px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+
+.place{
+    padding-top: 90px;
+    
+}
+
+.text{
+    font-size: 40px;
+    
 }
