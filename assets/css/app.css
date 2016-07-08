@@ -1,0 +1,21 @@
+body{
+    background-color: #524B58;
+    
+   
+}
+
+.main-header{
+    background-image: url(/assets/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+h1{
+    color: #EFF310;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
